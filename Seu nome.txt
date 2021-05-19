@@ -1,0 +1,2 @@
+nome = input('Qual e o seu nome?')
+print('Ola, seja bem vindo! ',nome)
